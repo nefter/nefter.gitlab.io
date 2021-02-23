@@ -1,7 +1,7 @@
 ![Build Status](https://gitlab.com/pages/middleman/badges/master/build.svg)
 
 
-HELLO WORLD!
+¡PRUEBA!
 ---
 
 Example [Middleman] website using GitLab Pages.
